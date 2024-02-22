@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32583" started-at="2024-02-21T18:33:49Z" finished-at="2024-02-21T18:34:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32583" started-at="2024-02-21T18:33:49Z" finished-at="2024-02-21T18:34:22Z">
+      <class name="com.AutomationJamal.demoProject1.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="launchDriver" is-config="true" duration-ms="6226" started-at="2024-02-21T18:33:49Z" finished-at="2024-02-21T18:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="Test1" duration-ms="3339" started-at="2024-02-21T18:33:56Z" finished-at="2024-02-21T18:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="quit" is-config="true" duration-ms="2655" started-at="2024-02-21T18:33:59Z" finished-at="2024-02-21T18:34:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="launchDriver" is-config="true" duration-ms="4897" started-at="2024-02-21T18:34:02Z" finished-at="2024-02-21T18:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="Test2" duration-ms="3945" started-at="2024-02-21T18:34:07Z" finished-at="2024-02-21T18:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="quit" is-config="true" duration-ms="1798" started-at="2024-02-21T18:34:11Z" finished-at="2024-02-21T18:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="launchDriver" is-config="true" duration-ms="4760" started-at="2024-02-21T18:34:12Z" finished-at="2024-02-21T18:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="Test3" duration-ms="3201" started-at="2024-02-21T18:34:17Z" finished-at="2024-02-21T18:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationJamal.demoProject1.TestClass1@6302bbb1]" name="quit" is-config="true" duration-ms="1717" started-at="2024-02-21T18:34:20Z" finished-at="2024-02-21T18:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.AutomationJamal.demoProject1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
