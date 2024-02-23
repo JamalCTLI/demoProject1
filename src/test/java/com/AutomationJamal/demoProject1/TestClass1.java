@@ -44,5 +44,7 @@ public class TestClass1 {
 	@AfterMethod
 	public void quit() {
 		driver.quit();
+		System.out.println("Browser closed successfully");
+		System.out.println("Browser123 closed successfully");
 	}
 }
